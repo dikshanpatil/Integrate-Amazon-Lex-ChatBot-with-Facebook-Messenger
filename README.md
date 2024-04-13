@@ -47,5 +47,7 @@ Welcome to a new project! In this guide, we’ll embark on the journey of integr
   * Deploy the bot to make it available to Facebook users, following Facebook's review and approval process.
 
 # Facing Difficulties
+    https://docs.aws.amazon.com/lex/latest/dg/what-is.html
+    https://developers.facebook.com/docs/messenger-platform
  
 
