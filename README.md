@@ -16,6 +16,9 @@ Welcome to a new project! In this guide, we’ll embark on the journey of integr
 # Step 2: Creating a Facebook Page for Your Bot
  Every chatbot needs a stage, and in this case, it’s a Facebook Page. We’ll create a dedicated page for your bot, set up messaging settings, and ensure everything is ready.
 
+<img width="1028" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/90fe9354-6c94-4160-8cb5-59a8819aaa75">
+
+
 # Step 3: Configuring Meta Developer Account
  * To connect with Facebook Messenger, we need to dive into the Facebook Developer world. You can just go to https://developers.facebook.com/.
  * Create a new account if you don’t have one.
@@ -44,6 +47,13 @@ Welcome to a new project! In this guide, we’ll embark on the journey of integr
   * Add permission for messages and confirm it.
 
 # Step 8: Test and Deploy Your ChatBot
+    
+
+<img width="332" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/0491f14c-483c-4ccc-8e21-17d0632bdba0">
+
+    
+<img width="329" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/226ff7d3-890d-4187-8e42-14c5062226d7">
+
   * Test your chatbot within Facebook Messenger by sending messages and verifying the responses.
   * Review the logs and metrics in the Lex console to identify any issues or areas for improvement.
   * Deploy the bot to make it available to Facebook users, following Facebook's review and approval process.
