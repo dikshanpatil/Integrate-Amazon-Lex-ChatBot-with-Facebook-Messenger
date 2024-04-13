@@ -51,8 +51,10 @@ Welcome to a new project! In this guide, we’ll embark on the journey of integr
   * Review the logs and metrics in the Lex console to identify any issues or areas for improvement.
   * Deploy the bot to make it available to Facebook users, following Facebook's review and approval process.
 
-<img width="332" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/0491f14c-483c-4ccc-8e21-17d0632bdba0">
- 
+# Screenshot 1: Greeting
+<img width="332" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/0491f14c-483c-4ccc-8e21-17d0632bdba0">  
+
+# Screenshot 2: Asking details and confirming the reservation.
 <img width="329" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/226ff7d3-890d-4187-8e42-14c5062226d7">
 
 
