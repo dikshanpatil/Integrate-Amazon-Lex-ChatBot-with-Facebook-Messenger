@@ -6,10 +6,11 @@ Welcome to a new project! In this guide, we’ll embark on the journey of integr
  * Sign in to the AWS Management Console and open the Amazon Lex console.
  * Click "Create" and define the bot's name, output voice, and session timeout.
  * Create intents, slots, and sample utterances to define how the bot will interact with users.
-    Sample Intent can be "GreetIntent" where you specify chatbot how to greet.
-   <img width="307" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/8faed6a7-bb01-4f8b-9b39-e763783daa6d">
+    Sample Intent can be "GreetIntent" where you specify chatbot how to greet.  
  * Build and test the bot within the Lex console.
     Test GreetIntent:
+   
+    <img width="319" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-    Messenger/assets/128430331/8502fbd6-041b-4210-a2a9-ff79959ec3b2">
 
    
 # Step 2: Creating a Facebook Page for Your Bot
