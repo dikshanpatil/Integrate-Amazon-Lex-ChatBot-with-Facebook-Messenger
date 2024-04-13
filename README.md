@@ -10,7 +10,7 @@ Welcome to a new project! In this guide, we’ll embark on the journey of integr
  * Build and test the bot within the Lex console.
     Test GreetIntent:
    
-    <img width="319" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-    Messenger/assets/128430331/8502fbd6-041b-4210-a2a9-ff79959ec3b2">
+   <img width="315" alt="image" src="https://github.com/dikshanpatil/Integrate-Amazon-Lex-ChatBot-with-Facebook-Messenger/assets/128430331/f4d94f04-d783-4187-b598-3661042a4d75">
 
    
 # Step 2: Creating a Facebook Page for Your Bot
